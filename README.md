@@ -13,6 +13,7 @@ Focus on Programming and Digital Media
 
 ## Skills
 * Languages: Java, Visual Basic, C#
+* Source Control: Git, GitHub
 * Certifications: Photoshop
 * Proficiency: Sony Vegas, Adobe Premiere Pro, Excel, Word, Access, Powerpoint
 * Git Repository: github.com/agthompson27519
